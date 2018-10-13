@@ -17,6 +17,7 @@ end
 end
 
 def while_iterator(number_of_times)
+  counter = 0
   while 
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
